@@ -8,6 +8,7 @@
 - 📚 About 3 months into smart contract development
 - 🧱 Interested in NFTs, DeFi and stablecoin design
 - 🔐 Learning smart contract security and testing
+- 🌍 Based in Canada
 - 📫 Reach me at likhith.sld@gmail.com
 
 ## Projects
@@ -16,7 +17,13 @@
 |---|---|
 | [foundry-nft](https://github.com/likhithsld1110/foundry-nft) | Dynamic Mood NFT with metadata and SVG images stored fully on-chain, deployed to Sepolia |
 | [foundry-fund-me](https://github.com/likhithsld1110/foundry-fund-me) | Funding contract using Chainlink price feeds |
-| [foundry-lottery](https://github.com/likhithsld1110/foundry-lottery) | Raffle contract (edit this line to describe what yours does) |
+| [foundry-lottery](https://github.com/likhithsld1110/foundry-lottery) | Raffle contract that picks a winner using Chainlink VRF |
+
+## Currently learning
+
+- Foundry testing (unit, fuzz and integration tests)
+- DeFi and stablecoin design (planning a decentralized stablecoin project next)
+- Layer 2 rollups
 
 ## Tools & technologies
 
